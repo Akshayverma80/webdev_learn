@@ -1,4 +1,4 @@
-# Interview questions
+# Interview questions for full stack web developer.
 
 # Learning about 
 # [1 HTML](https://github.com/Akshayverma80/webdev_learn/tree/main/HTML)
