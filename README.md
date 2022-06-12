@@ -1,7 +1,7 @@
 # Interview questions
 
 # Learning about 
-# [1 HTML](webdev_learn/HTML/README.md)
+# [1 HTML](https://github.com/Akshayverma80/webdev_learn/tree/main/HTML)
 # 2 CSS
 # 3 Javascript
 # 4 React JS
